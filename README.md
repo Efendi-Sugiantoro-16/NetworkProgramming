@@ -1,2 +1,3 @@
 # NetworkProgramming
-program pribadi
+program pribadi untuk belajar python.
+
